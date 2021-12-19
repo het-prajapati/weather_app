@@ -15,6 +15,14 @@ function App() {
         >
           Learn React
         </a>
+        <a
+          className="App-link"
+          href="https://apple.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Apple
+        </a>
       </header>
     </div>
   );
